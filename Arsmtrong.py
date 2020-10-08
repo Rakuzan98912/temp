@@ -6,6 +6,6 @@
  r=r+a*a*a
  n=n//10
  if(r==t):
-     print("Armstrong number")
+     print("Armstrong numbers")
      else:
          print("Not an Armstrong number")
